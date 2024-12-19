@@ -13,7 +13,7 @@ Este script é destinado exclusivamente para fins educativos e **não deve ser u
 - Substitui os arquivos originais com os arquivos criptografados (extensão `.ransomwaretroll`).
 - Utiliza AES no modo CTR para criptografar os arquivos.
 
-##Resultado:
+## Resultado:
 
 Os arquivos no diretório serão criptografados e terão a extensão .ransomwaretroll.
 O arquivo salvo.txt conterá a chave de criptografia necessária para descriptografar os arquivos.
